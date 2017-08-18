@@ -1,5 +1,7 @@
 Recognizing gestures drawn with a mouse or a graphic tablet using a neural network trained with the Backpropagation algorithm.
 
+It includes a full implementation of an artificial neural network with one hidden layer and the Backpropagation training algorithm.
+
 Project contains 40 learning exaples along with an application used for collecting the data. All exaples were drawn by a single prerson
 using a graphic tablet and represent one of the following greek letters: alpha, beta, gamma or epsilon.
 
